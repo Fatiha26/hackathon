@@ -11,4 +11,4 @@ default: &default
 
 test:
   <<: *default
-  database: hackathon_test
+  database: hackathon
